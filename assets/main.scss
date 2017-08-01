@@ -1,0 +1,34 @@
+---
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto+Slab:300');
+
+body {
+  font: normal 14px/24px "Merriweather", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+    color: #ff5252;
+}
+
+h1 {
+    border-bottom: solid 1px #eeeeee;
+}
+
+.post-meta {
+    font-family: 'Roboto', sans-serif;
+}
+
+.post-content {
+	text-align: justify;
+}
+
+p {
+    margin: 15px 0;
+}
+
+h2 {
+    margin: 20px 0;
+}
